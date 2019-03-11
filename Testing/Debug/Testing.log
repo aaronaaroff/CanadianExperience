@@ -1,0 +1,20 @@
+﻿  stdafx.cpp
+  initialize.cpp
+  ImageDrawableTest.cpp
+  EmptyTest.cpp
+  CTimelineTest.cpp
+c:\users\aaron\onedrive\documents\msu shit\cse\cse 335 - software design\step 6\canadianexperience\canadianexperience\timeline.h(68): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  CPolyDrawableTest.cpp
+c:\users\aaron\onedrive\documents\msu shit\cse\cse 335 - software design\step 6\canadianexperience\canadianexperience\timeline.h(68): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  CPictureTest.cpp
+c:\users\aaron\onedrive\documents\msu shit\cse\cse 335 - software design\step 6\canadianexperience\canadianexperience\timeline.h(68): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  CPictureObserverTest.cpp
+c:\users\aaron\onedrive\documents\msu shit\cse\cse 335 - software design\step 6\canadianexperience\canadianexperience\timeline.h(68): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  CDrawableTest.cpp
+  CAnimChannelAngleTest.cpp
+  CActorTest.cpp
+c:\users\aaron\onedrive\documents\msu shit\cse\cse 335 - software design\step 6\canadianexperience\canadianexperience\timeline.h(68): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+     Creating library C:\Users\aaron\OneDrive\Documents\MSU Shit\CSE\CSE 335 - Software Design\Step 6\CanadianExperience\Debug\Testing.lib and object C:\Users\aaron\OneDrive\Documents\MSU Shit\CSE\CSE 335 - Software Design\Step 6\CanadianExperience\Debug\Testing.exp
+  Testing.vcxproj -> C:\Users\aaron\OneDrive\Documents\MSU Shit\CSE\CSE 335 - Software Design\Step 6\CanadianExperience\Debug\Testing.dll
+  Testing.vcxproj -> C:\Users\aaron\OneDrive\Documents\MSU Shit\CSE\CSE 335 - Software Design\Step 6\CanadianExperience\Debug\Testing.pdb (Partial PDB)
