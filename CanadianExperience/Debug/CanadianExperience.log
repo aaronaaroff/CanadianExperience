@@ -1,0 +1,38 @@
+﻿  stdafx.cpp
+  Actor.cpp
+c:\users\aaron\onedrive\documents\school shit\cse\cse 335 - software design\step 6\canadianexperience\canadianexperience\timeline.h(68): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  ActorFactory.cpp
+  AnimChannel.cpp
+c:\users\aaron\onedrive\documents\school shit\cse\cse 335 - software design\step 6\canadianexperience\canadianexperience\timeline.h(68): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  AnimChannelAngle.cpp
+  AnimChannelPosition.cpp
+  BaldyFactory.cpp
+  CanadianExperience.cpp
+  HaroldFactory.cpp
+  HeadTop.cpp
+c:\users\aaron\onedrive\documents\school shit\cse\cse 335 - software design\step 6\canadianexperience\canadianexperience\timeline.h(68): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+c:\users\aaron\onedrive\documents\school shit\cse\cse 335 - software design\step 6\canadianexperience\canadianexperience\headtop.cpp(92): warning C4244: 'argument': conversion from 'INT' to 'Gdiplus::REAL', possible loss of data
+c:\users\aaron\onedrive\documents\school shit\cse\cse 335 - software design\step 6\canadianexperience\canadianexperience\headtop.cpp(114): warning C4244: 'argument': conversion from 'INT' to 'Gdiplus::REAL', possible loss of data
+  ImageDrawable.cpp
+  PictureFactory.cpp
+c:\users\aaron\onedrive\documents\school shit\cse\cse 335 - software design\step 6\canadianexperience\canadianexperience\timeline.h(68): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  PolyDrawable.cpp
+  Drawable.cpp
+c:\users\aaron\onedrive\documents\school shit\cse\cse 335 - software design\step 6\canadianexperience\canadianexperience\timeline.h(68): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  MainFrm.cpp
+c:\users\aaron\onedrive\documents\school shit\cse\cse 335 - software design\step 6\canadianexperience\canadianexperience\timeline.h(68): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  Picture.cpp
+c:\users\aaron\onedrive\documents\school shit\cse\cse 335 - software design\step 6\canadianexperience\canadianexperience\timeline.h(68): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  PictureObserver.cpp
+c:\users\aaron\onedrive\documents\school shit\cse\cse 335 - software design\step 6\canadianexperience\canadianexperience\timeline.h(68): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  Timeline.cpp
+c:\users\aaron\onedrive\documents\school shit\cse\cse 335 - software design\step 6\canadianexperience\canadianexperience\timeline.h(68): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  TimelineDlg.cpp
+c:\users\aaron\onedrive\documents\school shit\cse\cse 335 - software design\step 6\canadianexperience\canadianexperience\timeline.h(68): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  ViewEdit.cpp
+c:\users\aaron\onedrive\documents\school shit\cse\cse 335 - software design\step 6\canadianexperience\canadianexperience\timeline.h(68): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  ViewTimeline.cpp
+c:\users\aaron\onedrive\documents\school shit\cse\cse 335 - software design\step 6\canadianexperience\canadianexperience\timeline.h(68): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+c:\users\aaron\onedrive\documents\school shit\cse\cse 335 - software design\step 6\canadianexperience\canadianexperience\viewtimeline.cpp(122): warning C4244: 'argument': conversion from 'unsigned int' to 'Gdiplus::REAL', possible loss of data
+  Generating Code...
+  CanadianExperience.vcxproj -> C:\Users\aaron\OneDrive\Documents\School Shit\CSE\CSE 335 - Software Design\Step 6\CanadianExperience\Debug\CanadianExperience.exe
